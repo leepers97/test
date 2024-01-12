@@ -1,4 +1,5 @@
 1. intro
-2. linux 명령어(ls, ls -a, ls -al, clear, touch, rm)
+2. linux 명령어(ls, ls -a, ls -al, clear, touch, rm, echo)
 3. git 명령어(git init, git status, git add 파일명, git commit -m "message", git config...)
 4. git 명령어(git log, git checkout 해시코드 7자리, git checkout -)
+5. git remote, add origin 레포지토리 주소, git remote -v, git push -u origin main, git remote remove origin, git branch -M main
