@@ -1,4 +1,4 @@
-리눅스 명령어
 1. intro
-2. ls, ls -a, ls -al, clear, touch
-3. git 명령어(git init, git status, git add 파일명, git commit -m "message")
+2. linux 명령어(ls, ls -a, ls -al, clear, touch, rm)
+3. git 명령어(git init, git status, git add 파일명, git commit -m "message", git config...
+)
